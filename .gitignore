@@ -1,0 +1,15 @@
+monitorama-2023-pdx
+notes-private
+mtheme-1.2/
+*.aux
+*.log
+*.out
+*.snm
+*.toc
+*.nav
+*.pdf
+*.vrb
+*.md5
+*.dpth
+*.auxlock
+*.dep
